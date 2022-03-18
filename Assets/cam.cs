@@ -10,7 +10,8 @@ public class cam : MonoBehaviour
     // Start is called before the first frame update
     void Start()
     {
-
+        //cam1.SetActive(true);
+        //cam2.SetActive(false);
     }
 
     // Update is called once per frame
@@ -18,13 +19,13 @@ public class cam : MonoBehaviour
     {
         if (Input.GetKey(KeyCode.R))
         {
-            cam1.SetActive(true);
-            cam2.SetActive(false);
+            cam1.SetActive(false);
+            cam2.SetActive(true);
         }
         if (Input.GetKey(KeyCode.T))
         {
-            cam1.SetActive(false);
-            cam2.SetActive(true);
+            cam1.SetActive(true);
+            cam2.SetActive(false);
         }
     }
 }
