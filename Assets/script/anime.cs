@@ -16,7 +16,7 @@ public class anime : MonoBehaviour
     void Update()
     {
         animator.SetFloat("speed", 0);
-        animator.SetFloat("LR", 0);
+        //animator.SetFloat("LR", 0);
         if (Input.GetKey(KeyCode.W))
         {
             animator.SetFloat("speed", 1);
