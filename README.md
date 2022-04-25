@@ -1,7 +1,9 @@
-team Bor Dekker en Ruben Kossen
+Team = Bor Dekker en Ruben Kosssen
 
-sprint een hebben we aan het lopen gewerkt
+Project = We hebben een woestijn wereld gemaakt waarin je kan lopen en schieten. Er is een main menu waar je naar de options menu kan gaan en door op play te drukken kan je naar de game gaan en spelen.  
 
-sprint twee hebben we schieten gemakt
+Sprint 1 = We hebben ervoor gezorgd dat de speler kan lopen.
 
-sprint drie hebben we ui gemakt.
+Sprint 2 = We hebben ervoor gezorgd dat de speler kan schieten.
+
+Sprint 3 = We hebben een start screen & UI gemaakt voor de speler. 
